@@ -1,0 +1,5 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1942.75
+  response: 7E9056203021E5B
