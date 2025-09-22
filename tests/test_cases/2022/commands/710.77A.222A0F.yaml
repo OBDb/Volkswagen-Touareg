@@ -1,0 +1,29 @@
+command_id: 710.77A.222A0F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 40
+  response: 77A04622A0F28
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 41
+  response: 77A04622A0F29
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 43
+  response: 77A04622A0F2B
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 44
+  response: 77A04622A0F2C
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 45
+  response: 77A04622A0F2D
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 48
+  response: 77A04622A0F30
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 49
+  response: 77A04622A0F31
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 51
+  response: 77A04622A0F33
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 55
+  response: 77A04622A0F37

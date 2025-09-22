@@ -1,0 +1,29 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1719
+  response: 7E9056203021ADC
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1721
+  response: 7E9056203021AE4
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1730
+  response: 7E9056203021B08
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1730.25
+  response: 7E9056203021B09
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1732.75
+  response: 7E9056203021B13
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1733.25
+  response: 7E9056203021B15
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1740
+  response: 7E9056203021B30
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1740.5
+  response: 7E9056203021B32
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME: 1740.75
+  response: 7E9056203021B33
