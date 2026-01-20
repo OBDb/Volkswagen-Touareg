@@ -1,5 +1,6 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HVBAT_CAP: 65.24771
+    VOLKSWAGEN_HVBAT_CAP: 65.25
+    VOLKSWAGEN_HVBAT_E_MAX: 65250
   response: 77A07622AB205190100
