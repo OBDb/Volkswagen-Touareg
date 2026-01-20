@@ -1,0 +1,42 @@
+command_id: 710.77A.222A07|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 11.994
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F3A
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 11.997
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F3D
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F40
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.002
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F42
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.003
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F43
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.005
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F45
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.01
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F4A
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.011
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F4B
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.012
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F4C
+- expected_values:
+    VOLKSWAGEN_BAT_V_2A07: 12.015
+    VOLKSWAGEN_SSB_V: 69.54
+  response: 77A05622A071F4F
