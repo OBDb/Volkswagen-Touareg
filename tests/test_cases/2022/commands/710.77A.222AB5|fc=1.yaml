@@ -1,0 +1,12 @@
+command_id: 710.77A.222AB5|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5022102
+    77A212107FF07FF0000
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5022202
+    77A212207FF07FF0000

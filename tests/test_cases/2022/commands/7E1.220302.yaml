@@ -10,20 +10,5 @@ test_cases:
     VOLKSWAGEN_DRIVE_TIME: 1730
   response: 7E9056203021B08
 - expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1730.25
-  response: 7E9056203021B09
-- expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1732.75
-  response: 7E9056203021B13
-- expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1733.25
-  response: 7E9056203021B15
-- expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1740
-  response: 7E9056203021B30
-- expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1740.5
-  response: 7E9056203021B32
-- expected_values:
-    VOLKSWAGEN_DRIVE_TIME: 1740.75
-  response: 7E9056203021B33
+    VOLKSWAGEN_DRIVE_TIME: 1951.5
+  response: 7E9056203021E7E
