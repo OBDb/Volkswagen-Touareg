@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AT_INPUT_SPEED: 670
+  response: 7E9056221020A78
+- expected_values:
+    VOLKSWAGEN_AT_INPUT_SPEED: 846
+  response: 7E9056221020D38
+- expected_values:
+    VOLKSWAGEN_AT_INPUT_SPEED: 848
+  response: 7E9056221020D40
+- expected_values:
+    VOLKSWAGEN_AT_INPUT_SPEED: 855
+  response: 7E9056221020D5C
+- expected_values:
+    VOLKSWAGEN_AT_INPUT_SPEED: 1429
+  response: '7E9056221021654'
