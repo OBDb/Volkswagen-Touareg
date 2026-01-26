@@ -3,4 +3,5 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BAT_INT_R: 4
     VOLKSWAGEN_SSB_R: 4
+    VOLKSWAGEN_SSB_RES_INT: 4
   response: 77A04622A0E14

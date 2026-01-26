@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.222002
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENGINE_TORQUE__AT: 6
+  response: '7E9056220020006'
+- expected_values:
+    VOLKSWAGEN_ENGINE_TORQUE__AT: 12
+  response: 7E905622002000C
+- expected_values:
+    VOLKSWAGEN_ENGINE_TORQUE__AT: 26
+  response: 7E905622002001A
+- expected_values:
+    VOLKSWAGEN_ENGINE_TORQUE__AT: 136
+  response: '7E9056220020088'
+- expected_values:
+    VOLKSWAGEN_ENGINE_TORQUE__AT: 65494
+  response: 7E905622002FFD6
