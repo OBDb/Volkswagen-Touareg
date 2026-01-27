@@ -9,9 +9,9 @@ test_cases:
     VOLKSWAGEN_SSB_V: 69.54
   response: 77A05622A072301
 - expected_values:
-    VOLKSWAGEN_BAT_V_2A07: 15.261
+    VOLKSWAGEN_BAT_V_2A07: 15.262
     VOLKSWAGEN_SSB_V: 69.54
-  response: 77A05622A072BFD
+  response: 77A05622A072BFE
 - expected_values:
     VOLKSWAGEN_BAT_V_2A07: 15.273
     VOLKSWAGEN_SSB_V: 69.54
