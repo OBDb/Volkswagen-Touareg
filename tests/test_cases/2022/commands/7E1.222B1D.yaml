@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_TIRE_RL_SPD: 0
   response: 7E905622B1D0000
 - expected_values:
-    VOLKSWAGEN_TIRE_RL_SPD: 101.6
-  response: 7E905622B1D03F8
+    VOLKSWAGEN_TIRE_RL_SPD: 25.2
+  response: 7E905622B1D00FC
 - expected_values:
     VOLKSWAGEN_TIRE_RL_SPD: 104.6
   response: 7E905622B1D0416
