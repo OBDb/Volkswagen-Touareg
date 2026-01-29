@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_STEER_ANGLE_V2: 0
   response: 77D05622B290000
 - expected_values:
+    VOLKSWAGEN_STEER_ANGLE_V2: -1.025
+  response: 77D05622B29FBFF
+- expected_values:
     VOLKSWAGEN_STEER_ANGLE_V2: -0.253
   response: 77D05622B29FF03
-- expected_values:
-    VOLKSWAGEN_STEER_ANGLE_V2: -0.005
-  response: 77D05622B29FFFB
