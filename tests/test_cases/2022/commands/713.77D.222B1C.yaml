@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_TIRE_FR_SPD_V3: 0
   response: 77D05622B1C0000
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 87.24375
-  response: 77D05622B1C060F
-- expected_values:
     VOLKSWAGEN_TIRE_FR_SPD_V3: 100.4625
   response: 77D05622B1C06FA
+- expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD_V3: 104.625
+  response: 77D05622B1C0744
