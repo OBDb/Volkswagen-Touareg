@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_FILL_LEVEL: 889.92
+  response: 7E80562200639F0
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_FILL_LEVEL: 897.66
+  response: 7E8056220063A71
