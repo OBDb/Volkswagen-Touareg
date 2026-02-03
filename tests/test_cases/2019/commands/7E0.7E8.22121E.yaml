@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 352400
+  response: 7E80562121E0DC4
+- expected_values:
+    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 392100
+  response: 7E80562121E0F51

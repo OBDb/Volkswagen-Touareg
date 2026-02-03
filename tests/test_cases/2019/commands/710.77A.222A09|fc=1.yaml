@@ -1,0 +1,12 @@
+command_id: 710.77A.222A09|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BAT_I: -2999.958
+    VOLKSWAGEN_MQB_BAT_I: 10.899
+    VOLKSWAGEN_SSB_C: 10.899
+  response: 77A07622A0900002A93
+- expected_values:
+    VOLKSWAGEN_BAT_I: -2999.946
+    VOLKSWAGEN_MQB_BAT_I: 13.922
+    VOLKSWAGEN_SSB_C: 13.922
+  response: 77A07622A0900003662

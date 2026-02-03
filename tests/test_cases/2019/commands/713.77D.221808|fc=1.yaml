@@ -1,0 +1,5 @@
+command_id: 713.77D.221808|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HDC_ACTIVE: 0
+  response: 77D0462180800

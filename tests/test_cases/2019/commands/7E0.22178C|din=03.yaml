@@ -1,0 +1,5 @@
+command_id: 7E0.22178C|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_ASH_RESIDUE: 45.7
+  response: 7E80562178C01C9

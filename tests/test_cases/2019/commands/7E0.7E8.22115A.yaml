@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22115A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_DPF_FUEL_CON_REGEN: 37.95
+  response: 7E80562115A0ED3
+- expected_values:
+    VOLKSWAGEN_PQ35_DPF_FUEL_CON_REGEN: 38.08
+  response: 7E80562115A0EE0
