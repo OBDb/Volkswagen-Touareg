@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221026
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 406.6
+  response: 7E8056210260FE2
+- expected_values:
+    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 426.9
+  response: 7E80562102610AD

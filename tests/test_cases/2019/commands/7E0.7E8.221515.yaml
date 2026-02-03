@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221515
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAT_T_CALC: 104700
+  response: 7E80562151551D6
