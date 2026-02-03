@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221626
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: -9.3
+  response: 7E8056216260A4E
+- expected_values:
+    VOLKSWAGEN_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL: -8.1
+  response: 7E8056216260A5A

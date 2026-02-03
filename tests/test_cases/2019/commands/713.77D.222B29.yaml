@@ -1,0 +1,8 @@
+command_id: 713.77D.222B29
+test_cases:
+- expected_values:
+    VOLKSWAGEN_STEER_ANGLE_V2: 0.037
+  response: 77D05622B290025
+- expected_values:
+    VOLKSWAGEN_STEER_ANGLE_V2: -0.695
+  response: 77D05622B29FD49
