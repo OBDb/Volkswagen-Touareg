@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22202A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CHARGE_AIR_P_ACTUAL: 882.64
+  response: 7E80562202A2B19
+- expected_values:
+    VOLKSWAGEN_PQ35_CHARGE_AIR_P_ACTUAL: 910.32
+  response: 7E80562202A2C73
