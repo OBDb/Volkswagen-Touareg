@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_CAT_T_CALC: 26200
   response: '7E8056215151482'
 - expected_values:
-    VOLKSWAGEN_CAT_T_CALC: 104895
-  response: 7E80562151551FD
+    VOLKSWAGEN_CAT_T_CALC: 74180
+  response: 7E80562151539FE
 - expected_values:
     VOLKSWAGEN_CAT_T_CALC: 104940
   response: '7E8056215155206'

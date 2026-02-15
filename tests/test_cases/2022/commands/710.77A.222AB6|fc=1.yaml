@@ -1,6 +1,11 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_RANGE_V2: 160
+  response: |-
+    77A100A622AB600A000
+    77A21A007FD00AAAAAA
+- expected_values:
     VOLKSWAGEN_RANGE_V2: 250
   response: |-
     77A100A622AB600FA00
@@ -15,11 +20,6 @@ test_cases:
   response: |-
     77A100A622AB6010E01
     77A210E07FD00AAAAAA
-- expected_values:
-    VOLKSWAGEN_RANGE_V2: 400
-  response: |-
-    77A100A622AB6019001
-    77A219007FD00AAAAAA
 - expected_values:
     VOLKSWAGEN_RANGE_V2: 510
   response: |-

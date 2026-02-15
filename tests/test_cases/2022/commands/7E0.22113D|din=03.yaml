@@ -4,5 +4,23 @@ test_cases:
     VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 22.08
   response: 7E80562113D08A0
 - expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 24.39
+  response: 7E80562113D0987
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 27.12
+  response: 7E80562113D0A98
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 27.54
+  response: 7E80562113D0AC2
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 33.92
+  response: 7E80562113D0D40
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 37.8
+  response: 7E80562113D0EC4
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 38.24
+  response: 7E80562113D0EF0
+- expected_values:
     VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 313.74
   response: 7E80562113D7A8E
