@@ -4,5 +4,20 @@ test_cases:
     VOLKSWAGEN_PQ35_ENG_TORQUE: 280.1875
   response: 7E80562155A2306
 - expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 360.6875
+  response: 7E80562155A2D16
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 462
+  response: 7E80562155A39C0
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 464.90625
+  response: 7E80562155A3A1D
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 477.3125
+  response: 7E80562155A3BAA
+- expected_values:
     VOLKSWAGEN_PQ35_ENG_TORQUE: 629.65625
   response: 7E80562155A4EB5
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 645.0625
+  response: 7E80562155A50A2
