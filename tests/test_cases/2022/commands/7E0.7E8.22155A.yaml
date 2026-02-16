@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22155A
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_ENG_TORQUE: 160.25
+  response: 7E80562155A1408
+- expected_values:
     VOLKSWAGEN_PQ35_ENG_TORQUE: 280.1875
   response: 7E80562155A2306
 - expected_values:
