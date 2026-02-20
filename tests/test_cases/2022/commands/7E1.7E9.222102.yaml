@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_AT_INPUT_SPEED: 0
   response: '7E9056221020000'
 - expected_values:
-    VOLKSWAGEN_AT_INPUT_SPEED: 1851
-  response: 7E9056221021CEC
+    VOLKSWAGEN_AT_INPUT_SPEED: 1790
+  response: 7E9056221021BF8
 - expected_values:
     VOLKSWAGEN_AT_INPUT_SPEED: 2028
   response: 7E9056221021FB0
