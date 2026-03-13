@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222206
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 7
-  response: 7E805622206076C
+    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 5
+  response: '7E8056222060578'
 - expected_values:
     VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 25
   response: '7E8056222061900'
