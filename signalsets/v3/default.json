@@ -481,9 +481,9 @@
   "signals": [
     {"id": "TOUAREG_PQ35_INJ_2_RAIL_P_3", "path": "Engine", "fmt": { "len": 16, "max": 1.63, "min": -1.6384, "div": 20000, "sign": true, "unit": "milliseconds" }, "name": "Injector 2 rail pressure calibration point 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E0"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E0"}, "freq": 30, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
   "signals": [
-    {"id": "TOUAREG_ODO_V3", "path": "Trips", "fmt": { "len": 32, "max": 4000000000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "TOUAREG_10E0_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Engine read 10E0, signed raw count"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E1"}, "freq": 1,
   "signals": [

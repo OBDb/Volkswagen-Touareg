@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    TOUAREG_10E0_RAW: -72
+  response: 7E8056210E0FFB8
