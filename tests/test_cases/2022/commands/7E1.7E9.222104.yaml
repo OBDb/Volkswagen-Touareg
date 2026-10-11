@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ATF_T: -4
+    TOUAREG_ATF_T: -4
   response: '7E90462210424'
 - expected_values:
-    VOLKSWAGEN_ATF_T: 87
-  response: 7E9046221047F
+    TOUAREG_ATF_T: 88
+  response: '7E90462210480'

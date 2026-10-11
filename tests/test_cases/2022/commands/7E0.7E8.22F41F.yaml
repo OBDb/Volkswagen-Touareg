@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RUNTM: 0
+    TOUAREG_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    VOLKSWAGEN_RUNTM: 254
+    TOUAREG_RUNTM: 254
   response: 7E80562F41F00FE
 - expected_values:
-    VOLKSWAGEN_RUNTM: 4498
+    TOUAREG_RUNTM: 4498
   response: 7E80562F41F1192

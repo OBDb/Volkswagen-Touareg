@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222002
+test_cases:
+- expected_values:
+    TOUAREG_ENG_TQ_7E1: 18
+  response: '7E9056220020012'
+- expected_values:
+    TOUAREG_ENG_TQ_7E1: 120
+  response: '7E9056220020078'

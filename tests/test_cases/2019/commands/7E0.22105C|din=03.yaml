@@ -1,5 +1,5 @@
 command_id: 7E0.22105C|din=03
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 45.1
+    TOUAREG_PQ35_GEN_LOAD_2: 45.1
   response: 7E80562105C119E

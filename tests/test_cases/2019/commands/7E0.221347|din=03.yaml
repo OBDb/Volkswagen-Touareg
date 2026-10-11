@@ -1,5 +1,5 @@
 command_id: 7E0.221347|din=03
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_REGEN_DUR: 0
+    TOUAREG_PQ35_REGEN_DUR_2: 0
   response: '7E80762134700000000'

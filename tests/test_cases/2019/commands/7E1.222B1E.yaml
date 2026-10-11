@@ -1,8 +1,8 @@
 command_id: 7E1.222B1E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TIRE_RR_SPD: 0
+    TOUAREG_TIRE_RR_SPD_V2: 0
   response: 7E905622B1E0000
 - expected_values:
-    VOLKSWAGEN_TIRE_RR_SPD: 57.5
+    TOUAREG_TIRE_RR_SPD_V2: 57.5
   response: 7E905622B1E023F
