@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.222062
 test_cases:
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 1.873
+    TOUAREG_APP_POS2: 1.873
   response: '7E8056220620751'
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 2.819
+    TOUAREG_APP_POS2: 2.819
   response: 7E8056220620B03
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 3.07
+    TOUAREG_APP_POS2: 3.07
   response: 7E8056220620BFE
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 9.179
+    TOUAREG_APP_POS2: 9.179
   response: 7E80562206223DB

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VPWR: 11.58
+    TOUAREG_VPWR: 11.58
   response: 7E80562F4422D3C
 - expected_values:
-    VOLKSWAGEN_VPWR: 12.54
+    TOUAREG_VPWR: 12.54
   response: 7E80562F44230FC
 - expected_values:
-    VOLKSWAGEN_VPWR: 14.08
+    TOUAREG_VPWR: 14.08
   response: 7E80562F4423700
 - expected_values:
-    VOLKSWAGEN_VPWR: 15.12
+    TOUAREG_VPWR: 15.12
   response: 7E80562F4423B10

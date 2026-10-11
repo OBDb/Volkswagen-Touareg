@@ -1,11 +1,11 @@
 command_id: 7E1.222B1B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TIRE_FL_SPD: 0
+    TOUAREG_TIRE_FL_SPD_V2: 0
   response: 7E905622B1B0000
 - expected_values:
-    VOLKSWAGEN_TIRE_FL_SPD: 25.4
+    TOUAREG_TIRE_FL_SPD_V2: 25.4
   response: 7E905622B1B00FE
 - expected_values:
-    VOLKSWAGEN_TIRE_FL_SPD: 104.2
+    TOUAREG_TIRE_FL_SPD_V2: 104.2
   response: 7E905622B1B0412

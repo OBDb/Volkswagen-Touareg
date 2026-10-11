@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0F|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_USE_BAT_CHG: 14
+    TOUAREG_SSB_AH: 14
   response: 77A04622A0F0E
 - expected_values:
-    VOLKSWAGEN_USE_BAT_CHG: 55
+    TOUAREG_SSB_AH: 55
   response: 77A04622A0F37
