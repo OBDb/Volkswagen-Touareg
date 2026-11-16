@@ -1115,7 +1115,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "149E"}, "freq": 5,
   "signals": [
-    {"id": "TOUAREG_IAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature"}
+    {"id": "TOUAREG_IAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14A1"}, "freq": 0.25,
   "signals": [
@@ -1167,7 +1167,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1509"}, "freq": 1,
   "signals": [
-    {"id": "TOUAREG_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "TOUAREG_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1513"}, "freq": 5,
   "signals": [
@@ -1253,13 +1253,13 @@
   "signals": [
     {"id": "TOUAREG_PRE_INJ_3_START", "path": "Engine", "fmt": { "len": 16, "max": 719, "min": -720, "mul": 21973, "div": 1000000, "sign": true, "unit": "degrees" }, "name": "Pilot injection 3, start"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1633"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1633"}, "freq": 0.25,
   "signals": [
-    {"id": "TOUAREG_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.76, "min": -32.76, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration"}
+    {"id": "TOUAREG_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.76, "min": -32.76, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration", "suggestedMetric": "longitudinalAcceleration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1644"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1644"}, "freq": 0.25,
   "signals": [
-    {"id": "TOUAREG_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration"}
+    {"id": "TOUAREG_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration", "suggestedMetric": "lateralAcceleration"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "167E"}, "freq": 1,
   "signals": [
@@ -1676,7 +1676,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F433"}, "freq": 1,
   "signals": [
-    {"id": "TOUAREG_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "TOUAREG_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F43C"}, "freq": 5,
   "signals": [
