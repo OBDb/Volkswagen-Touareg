@@ -1652,7 +1652,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020], "from": 2023 },
   "signals": [
-    {"id": "TOUAREG_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
+    {"id": "TOUAREG_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020], "from": 2023 },
   "signals": [
@@ -2144,7 +2144,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F40D"}, "freq": 0.25,
   "signals": [
-    {"id": "TOUAREG_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
+    {"id": "TOUAREG_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F449"}, "freq": 0.25,
   "signals": [
